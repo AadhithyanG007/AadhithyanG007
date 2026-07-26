@@ -135,7 +135,7 @@ I work in a direct, iterative way: I'd rather ship a targeted, well-reasoned fix
 ---
 
 ### 🏋️ DGymBook
-**Multi-tenant gym management SaaS**, a product being built by my internship company (Safenet), currently in its initial development phase. My role has been focused on UI/UX design and contributing to early system design discussions.
+**Multi-tenant gym management SaaS**, a product being built by my internship company (Accura8), currently in its initial development phase. My role has been focused on UI/UX design and contributing to early system design discussions.
 
 `NestJS` `TypeScript` `PostgreSQL` `Redis Streams` `Kafka (planned)` `AWS ECS Fargate`
 
